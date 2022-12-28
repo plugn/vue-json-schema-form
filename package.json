@@ -1,4 +1,5 @@
 {
+    "name": "vue-json-schema-form",
     "private": true,
     "description": "基于 Vue 、JSON Schema 快速构建一个带完整校验的form表单",
     "repository": "https://github.com/lljj-x/vue-json-schema-form",
